@@ -116,13 +116,15 @@ body {
     display: flex;
     align-items: center;
     justify-self: center;
-    gap: .8rem;
+    gap: .5rem;
+    cursor: pointer;
 }
 
-.read-more .paragraph {
+.read-more .paragraph a {
     font-size: 18px;
     line-height: 21.94px;
     font-weight: 700;
+    color: #fff;
 }
 
 .box-2 .image1 img {

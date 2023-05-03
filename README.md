@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{https://interior-consultant-master-by-sotun.netlify.app/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://github.com/Sotun-1010/interior-consultant-master}">
       Solution
     </a>
     <span> | </span>
@@ -40,10 +40,10 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Where can I see your demo? You can view my [live demo](https://interior-consultant-master-by-sotun.netlify.app/) here.
+- What was your experience? Quite exhilarating got to learn more stuff.
+- What have you learned/improved? I mastered hoe to add, remove and toggle classes
+- Your wisdom? :) Keep being consistent and tenacious
 
 ### Built With
 
